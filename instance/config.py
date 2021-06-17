@@ -1,1 +1,1 @@
-SECRET_KEY ='Anne'
+SECRET_KEY ='Anna'
