@@ -33,4 +33,4 @@ $ ./run.py
 ###
 ### Licence
 * LICENSED UNDER (license/MIT)
-* Copyright &copy;[Anne Chege] 2021 (live link)
+* Copyright &copy;[Anne Chege] 2021 (live link, https://annepitch.herokuapp.com/)
